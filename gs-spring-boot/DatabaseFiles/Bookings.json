@@ -1,0 +1,21 @@
+[ {
+  "bookingId" : 91772,
+  "memberId" : 3,
+  "classId" : 44403,
+  "participationDate" : 1737885600000
+}, {
+  "bookingId" : 15506,
+  "memberId" : 1,
+  "classId" : 57976,
+  "participationDate" : 1739008800000
+}, {
+  "bookingId" : 25244,
+  "memberId" : 2,
+  "classId" : 57976,
+  "participationDate" : 1739008800000
+}, {
+  "bookingId" : 99780,
+  "memberId" : 2,
+  "classId" : 57976,
+  "participationDate" : 1739008800000
+} ]

@@ -1,0 +1,33 @@
+[ {
+  "classId" : 57976,
+  "name" : "Yoga Class",
+  "startDate" : 1738195200000,
+  "endDate" : 1739577600000,
+  "startTime" : "10:00",
+  "duration" : 60,
+  "capacity" : 17
+}, {
+  "classId" : 40489,
+  "name" : "Yoga Class",
+  "startDate" : 1738195200000,
+  "endDate" : 1739577600000,
+  "startTime" : "10:00",
+  "duration" : 60,
+  "capacity" : 20
+}, {
+  "classId" : 57801,
+  "name" : "Yoga Class",
+  "startDate" : 1738195200000,
+  "endDate" : 1739577600000,
+  "startTime" : "10:00",
+  "duration" : 60,
+  "capacity" : 20
+}, {
+  "classId" : 44403,
+  "name" : "Yoga Class",
+  "startDate" : 1738195200000,
+  "endDate" : 1739577600000,
+  "startTime" : "10:00",
+  "duration" : 60,
+  "capacity" : 20
+} ]
